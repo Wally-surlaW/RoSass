@@ -8,7 +8,7 @@ local AtRules = require(script.Parent.AtRules)
 local FlowControlRules = require(script.Parent.FlowControlRules)
 
 
-local VendorPrefixes = require(script.Parent.VendorPrefixes)
+local VendorPrefix = require(script.Parent.VendorPrefix)
 local Frameworks = require(script.Parent.Frameworks)
 
 local RoSass = {
